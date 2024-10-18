@@ -1,4 +1,4 @@
-**Global Terrorism Analysis Dashboard: Trends, Tactics, and Regional Impact**
+## **Global Terrorism Analysis Dashboard: Trends, Tactics, and Regional Impact**
 
 This **Terrorism Dashboard** provides a comprehensive overview of global terrorist activity, focusing on key metrics such as types of attacks, weapon usage, geographical spread, and historical trends. Here's a breakdown of the components and insights from the dashboard:
 
@@ -47,4 +47,4 @@ This **Terrorism Dashboard** provides a comprehensive overview of global terrori
 
 ### Conclusion:
 This dashboard provides a powerful tool for visualizing and analyzing global terrorism trends across different regions, attack types, and terrorist organizations. It offers a clear picture of how terrorism has evolved over time, where it's concentrated, and which groups and tactics are most prevalent.
-# Terrorism_Dashboard_INTERN-CARRER
+
